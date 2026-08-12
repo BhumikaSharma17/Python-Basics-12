@@ -18,4 +18,4 @@ while count < len(numbers):
 
 for num in numbers:
     print("Square:", num ** 2)
-    
+    main
